@@ -15,3 +15,10 @@ Nesse desafio, eu deveria recriar uma aplicação, a partir de um layout pr
 - Componentização
 - Estilização
 - TypeScript
+
+## Interações
+
+- Remover comentários
+- Adicionar comentários
+- "Aplaudir" uma publicação
+- Visualizar a quanto tempo uma postagem foi publicada. 
